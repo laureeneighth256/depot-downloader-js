@@ -1,6 +1,10 @@
 # depot-downloader-js
 
-JavaScript Steam Depot Downloader by [xMysFad](https://github.com/mysfad)
+JavaScript Steam Depot Downloader by [xMysFad](https://github.com/mysfad).
+
+The best choice for JavaScript developers.
+
+---
 
 ## Install
 
