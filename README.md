@@ -1,10 +1,12 @@
-# depot-downloader-js
+# Depot Downloader JS
 
 JavaScript Steam Depot Downloader by [xMysFad](https://github.com/mysfad).
 
 The best choice for JavaScript developers.
 
 ---
+
+# depot-downloader-js
 
 ## Install
 
@@ -27,6 +29,8 @@ downloadDepot({manifestFile, decryptionKey})
 ```
 
 ---
+
+# Links
 
 NPM Package: [npmjs.com/package/depot-downloader-js](https://npmjs.com/package/depot-downloader-js)
 
