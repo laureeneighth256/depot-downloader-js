@@ -21,3 +21,9 @@ downloadDepot({manifestFile, decryptionKey, concurrency})
 ```sh
 depot-downloader-js --manifest <path> --key <key>
 ```
+
+---
+
+Developer: [xMysFad](https://github.com/mysfad)
+
+Repository: [github.com/mysfad/depot-downloader-js](https://github.com/mysfad/depot-downloader-js)

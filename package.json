@@ -1,6 +1,6 @@
 {
     "name": "depot-downloader-js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "JavaScript Steam Depot Downloader",
     "main": "index.js",
     "scripts": {
@@ -19,6 +19,7 @@
     "author": "mysfad",
     "license": "MIT",
     "type": "module",
+    "homepage": "https://github.com/mysfad/depot-downloader-js",
     "dependencies": {
         "commander": "^14.0.3",
         "p-limit": "^7.3.0",
