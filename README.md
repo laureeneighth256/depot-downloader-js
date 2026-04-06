@@ -24,6 +24,8 @@ depot-downloader-js --manifest <path> --key <key>
 
 ---
 
-Developer: [xMysFad](https://github.com/mysfad)
+NPM Package: [npmjs.com/package/depot-downloader-js](https://npmjs.com/package/depot-downloader-js)
 
 Repository: [github.com/mysfad/depot-downloader-js](https://github.com/mysfad/depot-downloader-js)
+
+Developer: [xMysFad](https://github.com/mysfad)
