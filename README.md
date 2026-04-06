@@ -11,7 +11,7 @@ npm i depot-downloader-js -g
 ## Code Usage
 
 ```js
-import downloadDepot from './index.js'
+import downloadDepot from 'depot-downloader-js'
 
 downloadDepot({manifestFile, decryptionKey, concurrency})
 ```
