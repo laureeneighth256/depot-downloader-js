@@ -8,18 +8,18 @@ JavaScript Steam Depot Downloader by [xMysFad](https://github.com/mysfad)
 npm i depot-downloader-js -g
 ```
 
+## CLI Usage
+
+```sh
+depot-downloader-js --manifest <path> --key <key>
+```
+
 ## Code Usage
 
 ```js
 import downloadDepot from 'depot-downloader-js'
 
-downloadDepot({manifestFile, decryptionKey, concurrency})
-```
-
-## CLI Usage
-
-```sh
-depot-downloader-js --manifest <path> --key <key>
+downloadDepot({manifestFile, decryptionKey})
 ```
 
 ---
