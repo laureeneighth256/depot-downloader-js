@@ -11,7 +11,7 @@ The best choice for JavaScript developers.
 ## Install
 
 ```sh
-npm i depot-downloader-js -g
+npm i -g depot-downloader-js
 ```
 
 ## CLI Usage
